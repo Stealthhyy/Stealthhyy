@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stealthhyy" alt="stealthhyy" /></a> </p>
 
-- 🔭 I’m currently working on [a C++ graphics engine using OpenGL and Vulkan](https://github.com/Stealthhyy/SGE)
+- 🔭 I’m currently working on [a C++ graphics engine using OpenGL](https://github.com/Stealthhyy/SGE)
 
-- 🌱 I’m currently learning **OpenGL, Vulkan, .Net, Docker**
+- 🌱 I’m currently learning **Node.js, React, Firebase, C#.Net, Docker**
 
 
 <h3 align="left">Languages and Tools:</h3>
