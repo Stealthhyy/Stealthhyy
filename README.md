@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stealthhyy&label=Profile%20views&color=0e75b6&style=flat" alt="stealthhyy" /> </p>
 
-- 🔭 I’m currently working on a web payment demo using Stripe, React, Node.js, and Firebase
+- 🔭 I’m currently working on a survival crafting game built in Unreal Engine.
 
 - 🌱 I’m currently learning **Typescript, Node.js, React, Firebase, C#.Net, Docker**
 
